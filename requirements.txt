@@ -1,0 +1,7 @@
+streamlit
+pandas
+numpy
+gspread
+psycopg2
+create_engine
+
